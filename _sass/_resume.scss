@@ -130,11 +130,10 @@
   justify-content: center;
 }
 .flex-item + .flex-item {
-  margin-left: 25px;
+  margin-left: 20px;
 }
 .button {
-  @include border-radius(3px);
-  margin: 1.5rem auto;
+  margin-top: 15px;
   background-color: #efefef;
   border: none;
   color: #333;
