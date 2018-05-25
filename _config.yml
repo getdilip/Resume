@@ -12,11 +12,11 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Dilip Singh"
 resume_title:                   "Data Analyst"
-resume_contact_email:           "joindilipsigh@gmail.com"
+resume_contact_email:           "joindilipsingh@gmail.com"
 resume_contact_telephone:       "+91-9681413252"
 resume_contact_address:         "Vimannagar, Pune"
 resume_header_contact_info: "Vimannagar, Pune | +91-9681413252 | joindilipsigh@gmail.com"
-resume_header_intro: "<p>Data Analyst professional with 2+ years of diverse experience in Business Intelligence- Data Analysis, Competitive Intelligence & Pricing Analytics and Digital Marketing. </p>"
+resume_header_intro: "<p>Data Analyst professional with 2+ years of experience in Business Intelligence, Competitive Intelligence and Digital Marketing.<ul><li>Experience with ETL, SQL, SSIS, Web Scraping, Data Mining and Datorama- marketing intelligence tool</li><li>Working knowledge of Python and Tableau- data visualization & analysis tool</li><li>Has led a team of four peers</li><li>Beginner knowledge of Financial concepts applicable to Capital Markets</li><li>Completed B.Tech from West Bengal University of Technology, Kolkata</li></ul></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
