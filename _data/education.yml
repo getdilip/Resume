@@ -1,6 +1,18 @@
 # Degree
-- degree: B. Tech
-  uni: West Bengal University of Technology, Kolkata
+- degree: West Bengal University of Technology, Kolkata
+  uni: Bachelor of Technology
   year: 2011 &mdash; 2015
   #awards: Quickest to fall asleep
   summary: Electronics and Communication Engineering
+
+- degree: CISCE/ West Point Academy, Serampore
+  uni: ISC (XII)
+  year: 2010
+  #awards: Quickest to fall asleep
+  summary: Highschool
+
+- degree: CISCE/ West Point Academy, Serampore
+  uni: ICSC (X)
+  year: 2008
+  #awards: Quickest to fall asleep
+  summary: School
